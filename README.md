@@ -13,15 +13,15 @@
 
 | No | Judul Modul                          | Status |
 |----|--------------------------------------|--------|
-| 01 | [Basic Device Configuration](./modules/module-1-basic-device-configuration.md) | ✅ |
-| 02 | [Switching Concepts](./modules/module-2-switching-concepts.md) | ✅ |
-| 03 | VLANs                                | ⬜ |
-| 04 | Inter-VLAN Routing                   | ⬜ |
-| 05 | STP & Redundancy                     | ⬜ |
-| 06 | EtherChannel                         | ⬜ |
-| 07 | DHCP & SLAAC                         | ⬜ |
-| 08 | Static Routing                       | ⬜ |
-| 09 | Dynamic Routing (RIP, OSPF)          | ⬜ |
+| 1 | [Basic Device Configuration](./modules/module-1-basic-device-configuration.md) | ✅ |
+| 2 | [Switching Concepts](./modules/module-2-switching-concepts.md) | ✅ |
+| 3 | VLANs                                | ⬜ |
+| 4 | Inter-VLAN Routing                   | ⬜ |
+| 5 | STP & Redundancy                     | ⬜ |
+| 6 | EtherChannel                         | ⬜ |
+| 7 | DHCP & SLAAC                         | ⬜ |
+| 8 | Static Routing                       | ⬜ |
+| 9 | Dynamic Routing (RIP, OSPF)          | ⬜ |
 | 10 | IPv6 Routing                         | ⬜ |
 | 11 | Wireless LAN Concepts                | ⬜ |
 | 12 | WLAN Configuration                   | ⬜ |
