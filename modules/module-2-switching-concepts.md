@@ -53,7 +53,7 @@
 *** 
 
 ## 📎 Referensi Modul
-[Cisco Networking Academy](https://www.netacad.com)  
+- [Cisco Networking Academy](https://www.netacad.com)  
 
 ***
 
@@ -65,4 +65,4 @@ Lisensi: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internationa
 
 * * *
 
-> Ditulis oleh: **Ulil Akbar** pada 2025-6-13.
+> Ditulis oleh: **Ulil Akbar** pada 2025-06-13.
