@@ -118,8 +118,7 @@
 
 Dokumentasi ini disusun berdasarkan proses belajar pribadi dari kursus Cisco Networking Academy dan **tidak menyertakan materi berbayar atau berlisensi resmi dari Cisco** seperti soal kuis, slide, atau konten tertutup lainnya.
 
-Lisensi: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Lihat detail lisensi di [LICENSE.md](./LICENSE.md)
+Lisensi: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Lihat detail lisensi di [LICENSE.md](./LICENSE.md)
 
 * * *
 

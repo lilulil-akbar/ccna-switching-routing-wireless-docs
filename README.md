@@ -1,7 +1,7 @@
 # 📘 Dokumentasi Pembelajaran Pribadi CCNA: Switching, Routing, and Wireless Essentials (SRWE)
 
-**Platform**: [Cisco Networking Academy](https://www.netacad.com)  
-**Tipe Pembelajaran**: Instructor-led
+**Platform**: [Cisco Networking Academy](https://www.netacad.com)
+**Tipe Pembelajaran**: Instructor-led   
 **Periode Kursus**: Juni - Agustus 2025  
 **Instruktur**: Ziad Sobri  
 **Institusi**: Universitas Mitra Indonesia  
@@ -49,7 +49,8 @@ ccna-switching-routing-wireless-docs/
 ├── modules/
 │   ├── module-1-basic-device-configuration.md
 │   ├── module-2-switching-concepts.md
-└── └── ...
+│   └── ...
+└── ...
 ````
 
 ---
@@ -80,8 +81,5 @@ Lihat detail lisensi di [LICENSE.md](./LICENSE.md)
 
 ---
 
-## 🧑‍💻 Penulis
-
-**Ulil Akbar**
-GitHub: [@lilulil-akbar](https://github.com/lilulil-akbar)
-Proyek ini merupakan bagian dari pembelajaran mandiri dan portofolio terbuka.
+> Ditulis oleh: **Ulil Akbar**. <br />
+> Proyek ini merupakan bagian dari pembelajaran mandiri dan portofolio terbuka.
