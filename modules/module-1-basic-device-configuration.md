@@ -122,4 +122,4 @@ Lisensi: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internationa
 
 * * *
 
-> Ditulis oleh: **Ulil Akbar** pada 12 Juni 2025.
+> Ditulis oleh: **Ulil Akbar** pada 2025-06-13.
