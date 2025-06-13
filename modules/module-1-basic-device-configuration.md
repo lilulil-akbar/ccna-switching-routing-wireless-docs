@@ -110,7 +110,7 @@
 * * *
 
 ## 📎 Referensi Modul
-[Cisco Networking Academy](https://www.netacad.com)  
+- [Cisco Networking Academy](https://www.netacad.com)  
 
 * * *
 
