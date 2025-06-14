@@ -15,7 +15,7 @@
 |----|--------------------------------------|--------|
 | 1 | [Basic Device Configuration](./modules/module-1-basic-device-configuration.md) | ✅ |
 | 2 | [Switching Concepts](./modules/module-2-switching-concepts.md) | ✅ |
-| 3 | VLANs                                | ⬜ |
+| 3 | [VLANs](./modules/module-3-vlans.md)                                | ✅ |
 | 4 | Inter-VLAN Routing                   | ⬜ |
 | 5 | STP & Redundancy                     | ⬜ |
 | 6 | EtherChannel                         | ⬜ |
