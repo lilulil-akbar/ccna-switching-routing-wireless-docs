@@ -60,49 +60,49 @@
 - 🖥️ **Lab**: Who Hears the Broadcast?
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: Mengamati lalu lintas transmisi dan mengetahui perangkat-perangkat yang menerima paket broadcast pada setiap VLAN melalui simulation mode.
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**:[Who Hears the Broadcast? PKA File](../labs/module-3/3.1.4-packet-tracer---who-hears-the-broadcast.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: Investigate a VLAN Implementation
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: Memahami perbedaan lalu lintas pengiriman paket broadcast pada switch dengan atau tanpa implementasi VLAN melalui simulation mode.
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Investigate a VLAN Implementation PKA File](../labs/module-3/3.2.8-packet-tracer---investigate-a-vlan-implementation.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: VLAN Configuration
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: VLAN pada switch dengan switchport access berhasil dikonfigurasi.
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [VLAN Configuration PKA File](../labs/module-3/3.3.12-packet-tracer---vlan-configuration.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: Configure Trunks
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: VLAN pada switch dengan switchport trunk berhasil dikonfigurasi.
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Configure Trunks PKA File](../labs/module-3/3.4.5-packet-tracer---configure-trunks.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: Configure VLANs and Trunking
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: Berhasil mengimplementasikan switchport access dan trunk pada konfigurasi VLAN.
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Configure VLANs and Trunking PKA File](../labs/module-3/3.4.6-packet-tracer---configure-vlans-and-trunking---physical-mode.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: Configure DTP
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: VLAN pada switch dikonfigurasi bersama switchport DTP .
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Configure DTP PKA File](../labs/module-3/3.5.5-packet-tracer---configure-dtp.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: Implement VLANs and Trunking
 - 🔧 **Tools**: Packet Tracer, CLI, Utilitas Ping
 - 🔄 **Hasil**: Berhasil mengimplementasikan koneksi VLAN berbasis switchport access, trunking, native, voice, dan DTP.
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Implement VLANs and Trunking PKA File](../labs/module-3/3.6.1-packet-tracer---implement-vlans-and-trunking.pka) - ✅ 100% selesai
 
 ***
 
