@@ -13,10 +13,10 @@
 
 | No | Judul Modul                          | Status |
 |----|--------------------------------------|--------|
-| 1 | [Basic Device Configuration](./modules/module-1-basic-device-configuration.md) | ✅ |
+| 1 | [Basic Device Configuration](./modules/module-1-basic-device-configuration.md)                                                                  | ✅ |
 | 2 | [Switching Concepts](./modules/module-2-switching-concepts.md) | ✅ |
-| 3 | [VLANs](./modules/module-3-vlans.md)                                | ✅ |
-| 4 | Inter-VLAN Routing                   | ⬜ |
+| 3 | [VLANs](./modules/module-3-vlans.md)                           | ✅ |
+| 4 | [Inter-VLAN Routing](./modules/module-4-inter-vlan-routing.md)                                                                  | ✅ |
 | 5 | STP & Redundancy                     | ⬜ |
 | 6 | EtherChannel                         | ⬜ |
 | 7 | DHCP & SLAAC                         | ⬜ |
