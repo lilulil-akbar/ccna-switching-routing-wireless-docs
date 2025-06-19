@@ -17,7 +17,7 @@
 | 2 | [Switching Concepts](./modules/module-2-switching-concepts.md) | ✅ |
 | 3 | [VLANs](./modules/module-3-vlans.md)                           | ✅ |
 | 4 | [Inter-VLAN Routing](./modules/module-4-inter-vlan-routing.md)                                                                  | ✅ |
-| 5 | STP & Redundancy                     | ⬜ |
+| 5 | [STP & Redundancy](./modules/module-5-stp-concepts.md)         | ✅ |
 | 6 | EtherChannel                         | ⬜ |
 | 7 | DHCP & SLAAC                         | ⬜ |
 | 8 | Static Routing                       | ⬜ |
