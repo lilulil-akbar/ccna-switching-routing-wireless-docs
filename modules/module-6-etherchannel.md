@@ -57,6 +57,13 @@
 - 🔄 **Hasil**: Berhasil memeriksa konektivitas serta mengidentifikasi dan memperbaiki kesalahan konfigurasi pada koneksi redundan *EtherChannel* antar *switch*. 
 - 📁 **File Lab**: [Troubleshoot EtherChannel PKA File](../labs/module-6/6.3.4-packet-tracer---troubleshoot-etherchannel.pka) - ✅ 100% selesai
 
+\---
+
+- 🖥️ **Lab**: Implement EtherChannel  
+- 🔧 **Tools**: *Packet Tracer*, *CLI*, *Utilitas Ping*  
+- 🔄 **Hasil**: Berhasil merancang dan mengimplementasikan EtherChannel dalam topologi jaringan berbasis switch. 
+- 📁 **File Lab**: [Implement EtherChannel PKA File](../labs/module-6/6.4.1-packet-tracer---implement-etherchannel.pka) - ✅ 100% selesai
+
 ---
 
 ## 🧠 Catatan Pribadi
