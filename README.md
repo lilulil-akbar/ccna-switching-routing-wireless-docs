@@ -18,7 +18,7 @@
 | 3 | [VLANs](./modules/module-3-vlans.md)                           | ✅ |
 | 4 | [Inter-VLAN Routing](./modules/module-4-inter-vlan-routing.md)                                                                  | ✅ |
 | 5 | [STP & Redundancy](./modules/module-5-stp-concepts.md)         | ✅ |
-| 6 | EtherChannel                         | ⬜ |
+| 6 | [EtherChannel](./modules/module-6-etherchannel.md)             | ✅ |
 | 7 | DHCP & SLAAC                         | ⬜ |
 | 8 | Static Routing                       | ⬜ |
 | 9 | Dynamic Routing (RIP, OSPF)          | ⬜ |
