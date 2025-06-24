@@ -57,14 +57,14 @@
 - 🖥️ **Lab**: Configure DHCPv4  
 - 🔧 **Tools**: *Packet Tracer*, *CLI*, *Utilitas Ping*  
 - 🔄 **Hasil**: Konfigurasi *DHCPv4 Server*, *Client*, dan *Relay* berhasil dilakukan pada masing-masing *router* untuk mendukung kebutuhan host di dalam jaringan *LAN*.  
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Configure DHCPv4 PKA File](../labs/module-7/7.2.10-packet-tracer---configure-dhcpv4.pka) - ✅ 100% selesai
 
 \---
 
 - 🖥️ **Lab**: Implement DHCPv4  
 - 🔧 **Tools**: *Packet Tracer*, *CLI*, *Utilitas Ping*  
 - 🔄 **Hasil**: Implementasi penuh *DHCPv4 Server*, *Client*, dan *Relay* telah dilakukan secara tepat pada setiap *router*, untuk mendukung pengalamatan dinamis dalam jaringan *LAN*.  
-- 📁 **File Lab**: - ✅ 100% selesai
+- 📁 **File Lab**: [Implement DHCPv4 PKA File](../labs/module-7/7.4.1-packet-tracer---implement-dhcpv4.pka) - ✅ 100% selesai
 
 ---
 
