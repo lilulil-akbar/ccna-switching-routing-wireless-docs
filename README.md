@@ -20,7 +20,7 @@
 | 5 | [STP Concepts](./modules/module-5-stp-concepts.md)             | ✅ |
 | 6 | [EtherChannel](./modules/module-6-etherchannel.md)             | ✅ |
 | 7 | [DHCPv4](./modules/module-7-dhcpv4.md)                         | ✅ |
-| 8 | Static Routing                       | ⬜ |
+| 8 | [SLAAC and DHCPv6](./modules/module-8-slaac-and-dhcpv6.md)                                                                  | ✅ |
 | 9 | Dynamic Routing (RIP, OSPF)          | ⬜ |
 | 10 | IPv6 Routing                         | ⬜ |
 | 11 | Wireless LAN Concepts                | ⬜ |
