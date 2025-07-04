@@ -21,7 +21,7 @@
 | 6 | [EtherChannel](./modules/module-6-etherchannel.md)             | ✅ |
 | 7 | [DHCPv4](./modules/module-7-dhcpv4.md)                         | ✅ |
 | 8 | [SLAAC and DHCPv6](./modules/module-8-slaac-and-dhcpv6.md)                                                                  | ✅ |
-| 9 | Dynamic Routing (RIP, OSPF)          | ⬜ |
+| 9 | [FHRP Concepts](./modules/module-9-fhrp-concepts.md)                                                                  | ✅ |
 | 10 | IPv6 Routing                         | ⬜ |
 | 11 | Wireless LAN Concepts                | ⬜ |
 | 12 | WLAN Configuration                   | ⬜ |
