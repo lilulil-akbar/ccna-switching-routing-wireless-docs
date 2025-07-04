@@ -1,10 +1,10 @@
 ## 📘 CCNA: Switching, Routing, and Wireless Essentials – Module 9: FHRP Concepts
 
-**Platform**: [Cisco Networking Academy](https://www.netacad.com)
-**Tanggal Belajar**: 2025-07-04
-**Tipe Pembelajaran**: Instructor-led
-**Instruktur**: **Ziad Sobri**
-**Institusi**: Universitas Mitra Indonesia
+**Platform**: [Cisco Networking Academy](https://www.netacad.com) <br />
+**Tanggal Belajar**: 2025-07-04 <br />
+**Tipe Pembelajaran**: Instructor-led <br />
+**Instruktur**: **Ziad Sobri** <br />
+**Institusi**: Universitas Mitra Indonesia <br />
 
 ---
 
