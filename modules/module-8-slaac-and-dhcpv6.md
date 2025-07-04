@@ -1,4 +1,4 @@
-## 📘 CCNA: Switching, Routing, and Wireless Essentials – Module 7: SLAAC and DHCPv6
+## 📘 CCNA: Switching, Routing, and Wireless Essentials – Module 8: SLAAC and DHCPv6
 
 **Platform**: [Cisco Networking Academy](https://www.netacad.com)
 **Tanggal Belajar**: 2025-06-28
